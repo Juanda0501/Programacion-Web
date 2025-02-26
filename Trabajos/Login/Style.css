@@ -81,7 +81,7 @@ body {
     cursor: pointer;
     border: none ;
     bottom: 53px;
-    right: 90px;
+    justify-content: center;
     font-weight: 550;
     letter-spacing: -1px;
 }
@@ -91,6 +91,12 @@ body {
     animation: heartBeat;
     animation-duration: 3s ;
     animation-iteration-count: 5;  
+}
+
+.title2{
+    position:absolute;
+    
+   
 }
 
 
