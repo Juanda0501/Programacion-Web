@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(assets/backgrouund.svg);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container-logo{
+    width: 200px ;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    margin-bottom: 40px;
+
+}
+
+h1{
+    color: white;
+}
+
+.container-logo img{
+    width: 120px;
+    height: 120px;
+
+}
+
+.container-btnlogin{
+    width: 200px;
+    height: 50px;
+    background-image: linear-gradient(to right, #a87df3, #9c75ed, #8f6ee8, #8366e2, #755fdd);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.container-btnregister{
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    color: black;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.container-buttons{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    gap: 10px;
+}

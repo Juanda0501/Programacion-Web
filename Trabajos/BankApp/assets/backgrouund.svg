@@ -1,0 +1,37 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 454 811" width="550" height="982">
+	<title>4074366</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m448.56 811.89h-441.19c-4.6 0-8.32-3.72-8.32-8.32v-797.28c0-4.59 3.72-8.32 8.32-8.32h441.19c4.59 0 8.32 3.73 8.32 8.32v797.28c0 4.6-3.73 8.32-8.32 8.32z"/>
+		</clipPath>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-56.548,-709.671,672.399,-53.578,-56.145,662.7)">
+			<stop offset="0" stop-color="#ae80f5"/>
+			<stop offset="1" stop-color="#423cb5"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(56.548,-709.671,672.399,53.578,530.824,624.884)">
+			<stop offset="0" stop-color="#ae80f5"/>
+			<stop offset="1" stop-color="#423cb5"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-56.548,-709.671,672.399,-53.578,-63.567,599.791)">
+			<stop offset="0" stop-color="#ae80f5"/>
+			<stop offset="1" stop-color="#6153d3"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { opacity: .2;fill: url(#g1) } 
+		.s1 { opacity: .5;fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<g id="OBJECTS">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Clip Group&gt;" clip-path="url(#cp1)">
+					<path id="&lt;Path&gt;" class="s0" d="m-42.2 400.8c0 0 83.4 120.2 173.9 120.2 90.4 0 138.5-45.3 210.6-45.3 72.1 0 106 72.1 168.2 72.1v-575.3h-552.7z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m516.9 363c0 0-83.4 120.2-173.9 120.2-90.5 0-138.5-45.3-210.6-45.3-72.1 0-106.1 72.1-168.3 72.1v-575.3h552.8z"/>
+					<path id="&lt;Path&gt;" class="s2" d="m-49.6 337.9c0 0 83.4 120.2 173.8 120.2 90.5 0 138.6-45.3 210.7-45.3 72.1 0 106 72.1 168.2 72.1v-575.3h-552.7z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
