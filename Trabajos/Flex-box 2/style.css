@@ -6,35 +6,116 @@
 
 
 .container{
+    display: flex;
     width: 100vw;
     height: 100vh;
     background-color: black;
-    padding: 20px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
 
 }
 
 .container2{
-    width: 100% ;
-    height:100%;
+    width: 85% ;
+    height: 100%;
 }
 .box1{
     width: 100% ;
-    height:25%;
-    background-color: green;
+    height: 25%;
+    background-color: #00E4AC;
+    margin-bottom: 5px;
 }
 .container3{
     width: 100% ;
-    height:75%;
+    height: 75%;
     display: flex;
 }
 .container4{
-    width: 33% ;
-    height:100%;
-    background-color: rgb(235, 35, 35);
+    display: flex;
+    width: 35% ;
+    height: 100%;
+}
+.container6{
+    width: 50% ;
+    height: 100%;
+    margin-right: 5px;
+}
+.box2{
+    width: 100% ;
+    height: 33%;
+    background-color: #608FE9;
+    margin-bottom: 5px;
+}
+.box3{
+    width: 100% ;
+    height: 66%;
+    background-color: #608FE9;
+}
+.container7{
+    width: 50% ;
+    height: 100%;
+    margin-right: 5px;
 
 }
+.box4{
+    width: 100% ;
+    height: 33%;
+    background-color: #00E4AC;
+    margin-bottom: 5px;
+}
+.box5{
+    width: 100% ;
+    height: 33%;
+    background-color: #00E4AC;
+    margin-bottom: 5px;
+}
+.box6{
+    width: 100% ;
+    height: 32.5%;
+    background-color: #FF404B;
+}
 .container5{
-    width: 66%;
-    height:100%;
-    background-color: blue;
+    width: 65%;
+    height: 100%;
+}
+.container8{
+    display: flex;
+    width: 100%;
+    height: 67%;
+    margin-bottom: 5px;
+
+}
+.box7{
+    width: 75%;
+    height: 100%;
+    background-color: #FF404B;
+}
+.box8{
+    width: 25%;
+    height: 100%;
+    background-color: #608FE9;
+    margin-left: 5px;
+}
+.container9{
+    display: flex;
+    width: 100%;
+    height: 32.5%;
+}
+.box9{
+    width: 25%;
+    height: 100%;
+    background-color: #FF404B;
+}
+.box10{
+    width: 25%;
+    height: 100%;
+    background-color: #FF404B;
+    margin-left: 5px;
+}
+.box11{
+    width: 50%;
+    height: 100%;
+    background-color: #00E4AC;
+    margin-left: 5px;
 }
