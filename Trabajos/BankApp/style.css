@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container_index{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(assets/backgrouund.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-logo_index{
+    width: 200px ;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    margin-bottom: 30px;
+
+}
+
+h1{
+    color: white;
+    
+}
+
+.container-logo_index img{
+    width: 120px;
+    height: 120px;
+
+}
+
+.container-btnlogin_index{
+    width: 230px;
+    height: 50px;
+    background-image: linear-gradient(to right, #a87df3, #9c75ed, #8f6ee8, #8366e2, #755fdd);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-size: 20px;
+}
+
+.container-btnregister_index{
+    width: 230px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 10px;
+    color: black;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px -25px 20px -20px,
+    rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.container-buttons_index{
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    gap: 10px;
+}
+
